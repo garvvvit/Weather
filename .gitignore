@@ -1,0 +1,27 @@
+
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore other unnecessary files
+*.exe
+*.msi
+*.log
+*.pdf
+
+
+.env
+
+
+node_modules
+
+
